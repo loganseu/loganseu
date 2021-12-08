@@ -7,3 +7,5 @@ I'm currently a third year **Systems Design Engineering** student at the **Unive
 
 ### Github Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganseu&show_icons=true&theme=github_dark&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganseu)](https://github.com/anuraghazra/github-readme-stats)
