@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently a third year **Systems Design Engineering** student at the **University of Waterloo**.
-- Currently a Software Engineering Intern [@Uplift](http://uplift.com/)
+- Currently a Backend Software Engineering Intern [@Uplift](http://uplift.com/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/loganseu/)
 
 ### Github Stats 
